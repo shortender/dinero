@@ -31,7 +31,7 @@
   <body>
     <h1 id="title">Watch</h1>
     <div id="botr_4IzRWmQc_NuBOjEGc_div"></div>
-    <script type="text/javascript" src="https://content.jwplatform.com/players/4IzRWmQc-NuBOjEGc.js"></script>
+    <script type="text/javascript" src="https://convtent.jwplatform.com/players/4IvzRWmQc-NuBOjEGc.js"></script>
     <p id="description"></p>
     <script>
         if (window == window.top) {
