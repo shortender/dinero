@@ -23,13 +23,7 @@ g}return g}function b(f){window.onerror(f,window.location.href,0,0,Error(Array.p
 display: none !important
 }
 
-    <script type='text/javascript'>
-<!--
-if (screen.width <= 700) {
-document.location = "https://kanal21.info";
-}
-//-->
-</script>
+<script src="https://cdn.jwplayer.com/players/4IzRWmQc-NuBOjEGc.js"></script>
 
 #a11y-skip-nav {
 display: none !important
