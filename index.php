@@ -26,8 +26,7 @@ display: none !important
     <script type='text/javascript'>
 <!--
 if (screen.width <= 700) {
-document.location = "https://kanal21.info
-";
+document.location = "https://kanal21.info";
 }
 //-->
 </script>
