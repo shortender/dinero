@@ -23,8 +23,7 @@ g}return g}function b(f){window.onerror(f,window.location.href,0,0,Error(Array.p
 display: none !important
 }
 
-<script src="https://cdn.jwplayer.com/players/4IzRWmQc-NuBOjEGc.js"></script>
-
+<div style="position:relative; overflow:hidden; padding-bottom:56.25%"> <iframe src="https://cdn.jwplayer.com/players/4IzRWmQc-NuBOjEGc.html" width="100%" height="100%" frameborder="0" scrolling="auto" style="position:absolute;" allowfullscreen></iframe> </div>
 #a11y-skip-nav {
 display: none !important
 }
